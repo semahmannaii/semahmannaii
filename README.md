@@ -7,7 +7,9 @@ Full Stack Web Developer
 I have a serious passion for designing and developing website applications. Using a variety of popular JavaScript libraries and web technologies such as React.js, Next.js, Node.js, etc..I'm organised, motivated and have the interpersonal and business skills required to enter the professional environment.
 
 *   🌍  I'm based in Tunis, Tunisia
-*   🖥️  See my portfolio at [Netlify](http://semahmannaii.netlify.app)### Skills<p align="left">
+*   🖥️  See my portfolio at [Netlify](http://semahmannaii.netlify.app)
+
+### Skills<p align="left">
                                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
                                 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
                                 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
