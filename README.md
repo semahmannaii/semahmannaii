@@ -7,7 +7,7 @@ Full Stack Web Developer
 I have a serious passion for designing and developing website applications. Using a variety of popular JavaScript libraries and web technologies such as React.js, Next.js, Node.js, etc..I'm organised, motivated and have the interpersonal and business skills required to enter the professional environment.
 
 *   🌍  I'm based in Tunis, Tunisia
-*   🖥️  See my portfolio at [Netlify](http://semahmannaii.netlify.app)
+*   🖥️  See my portfolio at [Netlify](https://semah.netlify.app/)
 
 ### Skills
 <p align="left">
